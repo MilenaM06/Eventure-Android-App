@@ -2,7 +2,7 @@
   
 ## Overview
 
-**"Eventure"** is an Android application developed as part of the **Mobile Applications** course at the **Faculty of Technical Sciences, Novi Sad**. It was created by a team of four students using **Java** and **XML** in **Android Studio**, with **Firebase** serving as the database.  The app provides an intuitive platform for event organization and management.  The full specification is available [**here**](https://github.com/MilenaM06/Eventure-Android-App/blob/main/specification/Eventure_Specification_English.pdf). The class diagram is available [**here**](https://github.com/MilenaM06/Eventure-Android-App/blob/main/class-diagram/eventure-class-diagram.png)
+**"Eventure"** is an Android application developed as part of the **Mobile Applications** course at the **Faculty of Technical Sciences, Novi Sad**. It was created by a team of four students using **Java** and **XML** in **Android Studio**, with **Firebase** serving as the database.  The app provides an intuitive platform for event organization and management.  The full specification is available [**here**](https://github.com/MilenaM06/Eventure-Android-App/blob/main/specification/Eventure_Specification_English.pdf). The class diagram is available [**here**](https://github.com/MilenaM06/Eventure-Android-App/blob/main/class-diagram/eventure-class-diagram.png).
 
 ## User Roles
 
@@ -87,8 +87,8 @@ To build and run your app, follow these steps:
 
 ## Authors:
 
-- [**Milena Marković, RA 83/2020**](https://gitlab.com/MilenaM06) - Requirements for **Student 1**
-- [**Miljana Marjanović, RA 123/2020**](https://gitlab.com/miljanamarjanovic) - Requirements for **Student 2**
-- [**Strahinja Praška, RA 245/2021**](https://gitlab.com/strahinja803) - Requirements for **Student 3**
+- [**Milena Marković, RA 83/2020**](https://github.com/MilenaM06) - Requirements for **Student 1**
+- [**Miljana Marjanović, RA 123/2020**](https://github.com/MiljanaMa) - Requirements for **Student 2**
+- [**Strahinja Praška, RA 245/2021**](https://github.com/strahinjapraska) - Requirements for **Student 3**
 - [**Anastasija Novaković, RA 77/2020**](https://github.com/anastano) - Requirements for **Student 4**
 
