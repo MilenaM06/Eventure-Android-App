@@ -34,7 +34,7 @@ The system supports four types of users:
 ![Employees and work schedule](https://github.com/MilenaM06/Eventure-Android-App/blob/main/preview/6_employees.png)
 
 
-## Features:
+## Features
 ### **Event Organizers**
 - has an account and can log into the system 
 - can browse all services, products, and packages 
@@ -75,7 +75,7 @@ The system supports four types of users:
 My tasks involved handling the login and registration process, managing the admin screens for categories, subcategories, event types, and subcategory suggestions. I also implemented product purchase and service reservation functionality. Additionally, I integrated a notification feature and developed the app's navigation system.
 
 
-## Getting started:
+## Getting started
 
 To build and run your app, follow these steps:  
 * Clone the repository.  
@@ -85,7 +85,7 @@ To build and run your app, follow these steps:
 * Click Run.   
 
 
-## Authors:
+## Authors
 
 - [**Milena Marković, RA 83/2020**](https://github.com/MilenaM06) - Requirements for **Student 1**
 - [**Miljana Marjanović, RA 123/2020**](https://github.com/MiljanaMa) - Requirements for **Student 2**
